@@ -8,6 +8,5 @@ def fizzbuzz(int)
   elsif int % 5 == 0 # if the number int is divisible by 5
     return "Buzz"
   else
-    return "nil"
   end
 end
